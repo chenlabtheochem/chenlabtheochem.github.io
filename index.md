@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://xchenlabtheochem.top/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://xchenlabtheochem.top/homepage" width="1000" height="480">
 
 
 ## News and Updates
