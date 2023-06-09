@@ -1,4 +1,5 @@
 title: Chen's Lab
+tagline: Energy Storage and Conversion
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -7,7 +8,7 @@ url: https://xchenlabtheochem.top
 # Owner/author information
 owner:
   name: Chen's Lab
-  bio: Energy storage and conversion
+  #bio: Energy storage and conversion
   avatar: xingchen.jpeg
   #avatar: hanlin.jpg
   email: xing_chen@tju.edu.cn
